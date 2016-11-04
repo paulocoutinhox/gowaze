@@ -1,6 +1,6 @@
 # GoWaze > Go Waze API Client
 
-With this library you can fetch some Waze API so easy. Check test files for samples.
+With this library you can fetch some Waze API easy.
 
 # CI
 
